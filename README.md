@@ -7,3 +7,7 @@
 - Step 4: open the "myjpe.bst" file on Overleaf and find `FUNCTION {format.lab.names}`, under this section, change `numnames #3 > and` to `numnames #2 > and`, that is, for number of names over 2 (3 or more), use "et al." style.
 - Step 5: change the `\bibliographystyle{jpe}` to `\bibliographystyle{myjpe}`.
 - Step 6: recompile.
+
+Ref:
+  - To find the bst file: https://tex.stackexchange.com/questions/553385/where-to-find-apacite-bst-file-to-change-bibliography-style
+  - To locate the format section: ChatGPT
